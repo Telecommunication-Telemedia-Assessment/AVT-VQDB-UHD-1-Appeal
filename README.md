@@ -17,11 +17,24 @@ If you use any of the data or code please cite the following paper
 
 ## Download Videos
 Use the provided download tool to get all the videos. 
-You need `curl` installed.
+You need `wget` installed.
 
 ```bash
 ./download.sh
 ```
-This will download all videos in the folder `src_video` and `pvss`.
+This will download all videos in the folder `src_video` and `cpvs`.
 
-For windows users, use the url provided in the `download.sh` to get the videos with your preferred tool.
+For windows users, use the `base_url` provided in the `download.sh` to get the videos with your preferred tool.
+
+Upon request we can also share the corresponding bitstreams of the videos.
+
+## Structure
+
+* `cpvs` : videos used for the subjective tests (rescaled to native display resolution)
+* `src_videos` : src videos for the tests 
+* `hyn0_scores` : hybrid model prediction scores, see [hyn0](https://github.com/Telecommunication-Telemedia-Assessment/p1204_3_extensions)
+* `nofu_scores` : no reference scores, see [nofu](https://github.com/Telecommunication-Telemedia-Assessment/pixelmodels)
+* `siti` : SI TI values, calculated with [siti](https://github.com/VQEG/siti-tools)
+* `vmaf_scores` : vmaf predictions, [vmaf](https://github.com/Netflix/vmaf)
+* `subjective_scores` : scores from the subjective test, exported from [AVRateNG](https://github.com/Telecommunication-Telemedia-Assessment/avrateNG)
+
