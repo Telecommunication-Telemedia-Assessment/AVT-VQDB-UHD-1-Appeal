@@ -1,0 +1,45 @@
+{
+    "date": "2023-02-12 01:49:30.482821",
+    "debug": {
+        "baseline": 3.291533031303311,
+        "coding_deg": 34.850646009551355,
+        "rf_pred": 3.535774253750633,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 11.497589538727595
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 1.1358813397007954,
+        "1.0_quantil_FrameSize": 67433.0,
+        "Bitrate": 8329.54296875,
+        "Framerate": 60.0,
+        "Resolution": 2073600.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 0.0,
+        "hevc_10bit": 1.0,
+        "iqr_Av_QPBB_non-i": 5.519622371425648,
+        "iqr_min_QP": 6.0,
+        "kurtosis_Av_Motion": 1.4166343362138738,
+        "kurtosis_Av_QPBB_non-i": -0.8015834670744941,
+        "kurtosis_FrameSize_non-i": 0.292731995476573,
+        "mean_Av_QPBB_non_i": 35.333513398626444,
+        "predicted_mos_mode3_baseline": 3.291533031303311,
+        "quant": 0.5608494190258165,
+        "std_FrameSize_non-i": 7376.896587409384,
+        "std_max_QP_non-i": 3.1486284540956966,
+        "vp9": 0.0
+    },
+    "per_second": [
+        3.635897313760252,
+        3.7398372319189597,
+        3.669107546956679,
+        3.5894480733656846,
+        3.4877568620028025,
+        3.2644258738829306,
+        3.0660354721231635
+    ],
+    "per_sequence": 3.413653642526972,
+    "version": "0.1.2",
+    "video_basename": "water_netflix_8s_7000k_1080_hevc.mkv",
+    "video_full_path": "../../hevc_av1_vvc_subj_test/qeb/water_netflix_8s_7000k_1080_hevc.mkv"
+}

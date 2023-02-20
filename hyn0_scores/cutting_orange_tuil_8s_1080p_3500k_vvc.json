@@ -1,0 +1,46 @@
+{
+    "date": "2023-02-12 00:54:55.194222",
+    "debug": {
+        "baseline": 4.074917984796299,
+        "coding_deg": 22.402003275114993,
+        "rf_pred": 4.074109593028547,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 11.497589538727595
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.0031622776601683794,
+        "1.0_quantil_FrameSize": 164440.0,
+        "Bitrate": 3472.150390625,
+        "Framerate": 59.0,
+        "Resolution": 2073600.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 0.0,
+        "hevc_10bit": 1.0,
+        "iqr_Av_QPBB_non-i": 3.637803335221804,
+        "iqr_min_QP": 5.0,
+        "kurtosis_Av_Motion": 23.960944947579847,
+        "kurtosis_Av_QPBB_non-i": 4.131564974983718,
+        "kurtosis_FrameSize_non-i": 1.120868713248412,
+        "mean_Av_QPBB_non_i": 23.741239808797328,
+        "predicted_mos_mode3_baseline": 4.074917984796299,
+        "quant": 0.3768450763301163,
+        "std_FrameSize_non-i": 9189.320150373818,
+        "std_max_QP_non-i": 3.409681378134899,
+        "vp9": 0.0
+    },
+    "per_second": [
+        3.17398577648894,
+        3.9059199710100176,
+        4.346888928006744,
+        4.673135171355504,
+        4.24418881408271,
+        4.18024521781214,
+        4.223520749884688,
+        4.188721182024866
+    ],
+    "per_sequence": 4.074513788912423,
+    "version": "0.1.2",
+    "video_basename": "cutting_orange_tuil_8s_1080p_3500k_vvc.mkv",
+    "video_full_path": "../../hevc_av1_vvc_subj_test/qeb/cutting_orange_tuil_8s_1080p_3500k_vvc.mkv"
+}

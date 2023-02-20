@@ -1,0 +1,48 @@
+{
+    "date": "2023-02-12 01:01:05.218554",
+    "debug": {
+        "baseline": 2.4897238811870492,
+        "coding_deg": 39.819832688411175,
+        "rf_pred": 2.6479760226507087,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 19.241736862576012
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.0,
+        "1.0_quantil_FrameSize": 67828.0,
+        "Bitrate": 435.3271484375,
+        "Framerate": 60.0,
+        "Resolution": 921600.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 0.0,
+        "hevc_10bit": 1.0,
+        "iqr_Av_QPBB_non-i": 0.0,
+        "iqr_min_QP": 8.0,
+        "kurtosis_Av_Motion": 25.850550306934974,
+        "kurtosis_Av_QPBB_non-i": 0.0,
+        "kurtosis_FrameSize_non-i": 8.722824349518936,
+        "mean_Av_QPBB_non_i": 38.024052029084075,
+        "predicted_mos_mode3_baseline": 2.4897238811870492,
+        "quant": 0.6035563814140329,
+        "std_FrameSize_non-i": 1006.0793615777619,
+        "std_max_QP_non-i": 2.3366498796209627,
+        "vp9": 0.0
+    },
+    "per_second": [
+        2.3105828737493117,
+        2.5815528118297677,
+        2.6201190324136325,
+        2.475769642285858,
+        2.4861428393360967,
+        2.558170651961674,
+        2.6340018210119975,
+        2.568849951918879,
+        2.568849951918879,
+        2.5190960752989815
+    ],
+    "per_sequence": 2.568849951918879,
+    "version": "0.1.2",
+    "video_basename": "BunnyAnimation_400k_720_hevc.mkv",
+    "video_full_path": "../../hevc_av1_vvc_subj_test/qeb/BunnyAnimation_400k_720_hevc.mkv"
+}

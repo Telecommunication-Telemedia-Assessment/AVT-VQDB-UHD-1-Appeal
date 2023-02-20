@@ -1,0 +1,46 @@
+{
+    "date": "2023-02-12 01:33:17.267501",
+    "debug": {
+        "baseline": 4.028658045877387,
+        "coding_deg": 23.16557007296211,
+        "rf_pred": 4.057759386515063,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 11.497589538727595
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.0031622776601683794,
+        "1.0_quantil_FrameSize": 109424.0,
+        "Bitrate": 6792.9208984375,
+        "Framerate": 60.0,
+        "Resolution": 2073600.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 0.0,
+        "hevc_10bit": 1.0,
+        "iqr_Av_QPBB_non-i": 2.615899850732479,
+        "iqr_min_QP": 3.0,
+        "kurtosis_Av_Motion": -0.9792461896804636,
+        "kurtosis_Av_QPBB_non-i": 8.247056722939345,
+        "kurtosis_FrameSize_non-i": 0.6674121783358746,
+        "mean_Av_QPBB_non_i": 24.86206033990611,
+        "predicted_mos_mode3_baseline": 4.028658045877387,
+        "quant": 0.3946358784112081,
+        "std_FrameSize_non-i": 16183.089291272207,
+        "std_max_QP_non-i": 2.8204339523284414,
+        "vp9": 0.0
+    },
+    "per_second": [
+        3.6696479094818972,
+        4.156852658638284,
+        4.150613967550814,
+        4.114991619902195,
+        4.10100334334258,
+        4.01881974403918,
+        4.081604222336536,
+        4.093329475713927
+    ],
+    "per_sequence": 4.043208716196226,
+    "version": "0.1.2",
+    "video_basename": "Giftmord-SDR_8s_11_3840x2160_7000k_1080_hevc.mkv",
+    "video_full_path": "../../hevc_av1_vvc_subj_test/qeb/Giftmord-SDR_8s_11_3840x2160_7000k_1080_hevc.mkv"
+}

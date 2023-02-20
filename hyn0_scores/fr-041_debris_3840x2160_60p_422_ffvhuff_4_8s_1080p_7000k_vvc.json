@@ -1,0 +1,46 @@
+{
+    "date": "2023-02-12 01:19:39.617070",
+    "debug": {
+        "baseline": 3.005657996636786,
+        "coding_deg": 39.307737382986254,
+        "rf_pred": 3.0070121632119506,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 11.497589538727595
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.0031622776601683794,
+        "1.0_quantil_FrameSize": 99813.0,
+        "Bitrate": 7295.7822265625,
+        "Framerate": 60.0,
+        "Resolution": 2073600.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 0.0,
+        "hevc_10bit": 1.0,
+        "iqr_Av_QPBB_non-i": 0.0,
+        "iqr_min_QP": 10.0,
+        "kurtosis_Av_Motion": 0.7821082345592494,
+        "kurtosis_Av_QPBB_non-i": 0.0,
+        "kurtosis_FrameSize_non-i": 0.4294556045055624,
+        "mean_Av_QPBB_non_i": 37.77334153874941,
+        "predicted_mos_mode3_baseline": 3.005657996636786,
+        "quant": 0.5995768498214192,
+        "std_FrameSize_non-i": 17011.273077020895,
+        "std_max_QP_non-i": 3.1996665788279652,
+        "vp9": 0.0
+    },
+    "per_second": [
+        2.7954714982130175,
+        2.800700139340205,
+        2.7173539366249013,
+        3.0063350799243684,
+        3.2268203300552654,
+        3.419145408806201,
+        3.2221750685693302,
+        3.0080584411739224
+    ],
+    "per_sequence": 3.0063350799243684,
+    "version": "0.1.2",
+    "video_basename": "fr-041_debris_3840x2160_60p_422_ffvhuff_4_8s_1080p_7000k_vvc.mkv",
+    "video_full_path": "../../hevc_av1_vvc_subj_test/qeb/fr-041_debris_3840x2160_60p_422_ffvhuff_4_8s_1080p_7000k_vvc.mkv"
+}

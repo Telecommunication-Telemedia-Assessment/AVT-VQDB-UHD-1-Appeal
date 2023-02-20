@@ -1,0 +1,48 @@
+{
+    "date": "2023-02-12 01:50:20.117121",
+    "debug": {
+        "baseline": 3.9838309176167663,
+        "coding_deg": 23.900248596002086,
+        "rf_pred": 4.035498046197896,
+        "temporal_deg": 0.0,
+        "upscaling_deg": 11.497589538727595
+    },
+    "features": {
+        "0.0_quantil_StdDev_MotionX_non-i": 0.13602619618242126,
+        "1.0_quantil_FrameSize": 305529.0,
+        "Bitrate": 3085.3798828125,
+        "Framerate": 60.0,
+        "Resolution": 2073600.0,
+        "h264": 0.0,
+        "h264_10bit": 0.0,
+        "hevc": 0.0,
+        "hevc_10bit": 1.0,
+        "iqr_Av_QPBB_non-i": 0.0,
+        "iqr_min_QP": 6.0,
+        "kurtosis_Av_Motion": 4.7433538772489445,
+        "kurtosis_Av_QPBB_non-i": 0.0,
+        "kurtosis_FrameSize_non-i": 31.115942895072124,
+        "mean_Av_QPBB_non_i": 25.851939505073204,
+        "predicted_mos_mode3_baseline": 3.9838309176167663,
+        "quant": 0.4103482461122731,
+        "std_FrameSize_non-i": 11973.950126871898,
+        "std_max_QP_non-i": 3.420171590760581,
+        "vp9": 0.0
+    },
+    "per_second": [
+        4.009664481907331,
+        4.009664481907331,
+        4.009664481907331,
+        4.009664481907331,
+        4.009664481907331,
+        4.009664481907331,
+        4.009664481907331,
+        4.0896169701963165,
+        4.009664481907331,
+        4.009664481907331
+    ],
+    "per_sequence": 4.009664481907331,
+    "version": "0.1.2",
+    "video_basename": "SpaceNasa_3500k_1080_hevc.mkv",
+    "video_full_path": "../../hevc_av1_vvc_subj_test/qeb/SpaceNasa_3500k_1080_hevc.mkv"
+}

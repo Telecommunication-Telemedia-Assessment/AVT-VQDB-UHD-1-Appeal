@@ -1,0 +1,14 @@
+{
+    "class": 4.0,
+    "date": "2023-02-18 23:07:24.509882",
+    "model": "/home/rakesh/work/pixelmodels/pixelmodels/models/nofu",
+    "mos": 3.500666666666668,
+    "rating_dist": [
+        0.06833333333333334,
+        0.1406666666666666,
+        0.25566666666666643,
+        0.34933333333333355,
+        0.18599999999999994
+    ],
+    "version": "master@14a44267de4ddca087e25a0c74856fdef4e173e6"
+}
