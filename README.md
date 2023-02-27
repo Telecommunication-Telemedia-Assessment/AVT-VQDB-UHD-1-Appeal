@@ -1,6 +1,7 @@
 # AVT-VQDB-UHD-1-Appeal
 This is a repository with data related to the 4K database that is published at QoMEX 2023.
 However, to download the videos it is recommended to use the provided tool, because the videos are not hosted in this repository.
+This work is funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) -- Project Sophoappeal -- DFG-437543412.
 
 
 If you use any of the data or code please cite the following paper
