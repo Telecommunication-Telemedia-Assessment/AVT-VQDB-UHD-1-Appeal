@@ -18,7 +18,7 @@ If you use any of the data or code please cite the following paper
 
 ## Download Videos
 Use the provided download tool to get all the videos. 
-You need `wget` installed.
+You need `wget` and `unzip` installed.
 
 ```bash
 ./download.sh
