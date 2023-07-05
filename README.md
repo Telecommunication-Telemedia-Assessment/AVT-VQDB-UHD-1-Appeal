@@ -10,7 +10,7 @@ If you use any of the data or code please cite the following paper
 @inproceedings{rao2023VQA,
     author = {Rakesh Rao Ramachandra Rao and Steve G\"oring and Bassem Elmeligy and Alexander Raake},
     title = {AVT-VQDB-UHD-1-Appeal: A UHD-1/4K Open Dataset for Video Quality and Appeal Assessment Using Modern Video Codecs},
-    booktitle="15th International Conference on Quality of Multimedia Experience (QoMEX)",
+    booktitle="25th IEEE International Workshop on Multimedia Signal Processing (MMSP)",
     year = {2023},
     note = {to appear}
 }
