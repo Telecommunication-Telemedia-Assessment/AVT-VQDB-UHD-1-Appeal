@@ -9,10 +9,11 @@ If you use any of the data or code please cite the following paper
 ```bibtex
 @inproceedings{rao2023VQA,
     author = {Rakesh Rao Ramachandra Rao and Steve G\"oring and Bassem Elmeligy and Alexander Raake},
-    title = {AVT-VQDB-UHD-1-Appeal: A UHD-1/4K Open Dataset for Video Quality and Appeal Assessment Using Modern Video Codecs},
-    booktitle="25th IEEE International Workshop on Multimedia Signal Processing (MMSP)",
-    year = {2023},
-    note = {to appear}
+    booktitle={2023 IEEE 25th International Workshop on Multimedia Signal Processing (MMSP)}, 
+    title={AVT-VQDB-UHD-1-Appeal: A UHD-1/4K Open Dataset for Video Quality and Appeal Assessment Using Modern Video Codecs}, 
+    year={2023},
+    pages={1-6},
+    doi={10.1109/MMSP59012.2023.10337713}
 }
 ```
 
